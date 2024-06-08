@@ -1,5 +1,5 @@
 # Hyperblog  v1.0 💚
->Esta es mi version de un blog increible para el[ curso de Git y Github](http://https://github.com/Meli-Ballesteros/Hyperblog " curso de Git y Github") de platzi.
+>Esta es mi version de un blog increible para el[ curso de Git y Github](https://github.com/Meli-Ballesteros/Hyperblog?tab=readme-ov-file " curso de Git y Github") de platzi.
 
 ![](https://www.freecodecamp.org/news/content/images/2024/04/What-is-GitHub-Wiki-and-How-Do-You-Use-it.png)
 
