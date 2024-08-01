@@ -1,10 +1,7 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-=======
+    background: #1e1f24;
     color: #333;
->>>>>>> e0737c1 (mejoras en el mensaje y cambio de color de estilo)
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -15,11 +12,7 @@ body
 #cabecera
 {
 
-<<<<<<< HEAD
      background: #37488b;
-=======
-     background: #33A ;
->>>>>>> e0737c1 (mejoras en el mensaje y cambio de color de estilo)
      box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
      color: white;
      font-weight: bold;
@@ -57,10 +50,8 @@ body
 
 #post
 {
-<<<<<<< HEAD
     background: white;
     padding: 1em;
-=======
     padding: 1em;
 }
 
@@ -70,5 +61,4 @@ body
     color:white;
     text-align: center;
     padding: 0.5em;
->>>>>>> e0737c1 (mejoras en el mensaje y cambio de color de estilo)
 }
